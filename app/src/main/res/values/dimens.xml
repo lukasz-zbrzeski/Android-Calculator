@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Rozmiary dla telefonow -->
+    <dimen name="button_width">110dp</dimen>
+    <dimen name="button_height">60dp</dimen>
+    <dimen name="text_size_result">48sp</dimen>
+
+    <dimen name="start_button_text_size">18sp</dimen>
+    <dimen name="start_button_padding_vertical">12dp</dimen>
+    <dimen name="start_button_margin_bottom">12dp</dimen>
+</resources>
